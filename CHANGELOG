@@ -1,0 +1,158 @@
+zNotes 0.4.4:
+* Fixed segfault on removing last note
+* HTTPS and FTP links may be highlighted now
+* Added toolbar actions for navigation by history
+* Fixed problem with note renaming
+* Fixed problem with NoteTodo translation
+* Added drag and drop support for toolbar items configuration dialog
+* Major architectural changes
+
+zNotes 0.4.3:
+* Fixed problem with compilation on not UNIX systems
+* Fixed problem with saving user language
+* Fixed problem with unchecking search action on closing search bar
+* Improved search usability
+
+zNotes 0.4.2:
+* Changed arhitecure of the note class
+* Added picture format support
+* Some ui improvements
+* Added ability to change text color in html notes
+* Added ability to use only one running instance of application.
+* Added default notes directory for all platforms
+* Added option for converting rich text insertions to plain text in HTML notes
+* Fixed problem with saving last note's name
+* Fixed bug with opening links in about dialog
+* Fixed bug with the inability to edit notes content after unsuccessful search
+* Added Brazilian Portuguese translation
+* Added Ukranian translation
+* Improved translations support
+
+zNotes 0.4.1:
+* Added automatic scaning for new files
+* Some arhitecture changes
+* Added ability to change tabbar position
+* Added optional showing note's files extensions
+* Added optional showing hidden files
+* Improved toolbar editor
+* Fixed bug with loading default settings
+* Fixed bug with note's renaming
+* Fixed bug with pasting formatted text to text note
+
+zNotes 0.4.0:
+* Major architectural changes
+* Optimized source code
+* Added clicable links
+* Added links' highlighting
+* Added support for html format of notes (text formating only now)
+* Added new shortcuts
+* Fixed problem with translation on unix
+ systems
+* Fixed problem with translation Script's table headers in configuration dialog
+* Fixed search
+* Fixed "KDE kogout was cancelled by zNotes" bug
+* Fixed problem with saving default settings
+* Added Czech translation
+* Fixed and updated russian translation
+* Some small fixes
+
+zNotes 0.3.9:
+* Fixed some problems in toolbar editor
+* Fixed tray icon on windows
+* Fixed application icon on windows
+* Fixed bug with segmentaion fault on removing note
+* Improved  toolbar editor
+* Added abilty to change application language
+
+zNotes 0.3.8
+* Fixed problems saving toolbar's items
+* Added program directory to translation's search paths
+* Fixed desktop file (unix only)
+* Fixed problems with window's frame hiding
+* Removed ability to hide toolbar (If you need in this ability, tell me, please)
+
+zNotes 0.3.7
+* Added ability to configure toolbar's elements
+* Added tab's switch via Alt+n (1<n<=9)
+
+zNotes 0.3.6
+* Fixed bug with showing notes' path in settings
+* Fixed bug with not working shortcuts
+* Added search in a notes' text
+* Some fixes
+
+zNotes 0.3.5
+* Fixed bug with compilation on not "unix" operation systems
+* Added icon to application (for OS/2 and Windows)
+* Updated about dialog
+* Some fixes
+
+zNotes 0.3.4
+* Added ability to hide some parts of toolbar's elements
+
+zNotes 0.3.3
+* Added saving toolbar's place on quit
+
+zNotes 0.3.2
+* Added Exit button to toolbar
+
+zNotes 0.3.1
+* Added default notes' path
+
+zNotes 0.3.0
+* Added ability to execute commands on scripts (such as upload to pasterbin)
+
+zNotes 0.2.9
+* Fixed toolbar
+
+zNotes 0.2.8
+* Added ability to change note's font
+
+zNotes 0.2.7
+* Fixed bug with hiding on preferences's changing
+
+zNotes 0.2.6
+* Added russian translation
+* Some improvements
+* Fixed bug with crush on note's renaming
+* "make install" work now!
+
+zNotes 0.2.5
+* Fixed bug with renaming
+* Added ability to hide toolbar
+* Added ability to hide window's frame
+
+zNotes 0.2.4
+* Fixed desktop file
+* Added saving window's coordinates on quit
+* Beautifiered source code
+* Some improvements
+
+zNotes 0.2.3:
+* Added icons to actions
+
+zNotes 0.2.2:
+* Added program icon
+* Fixedbug with closing application, when it hided and any dialog was showed
+
+zNotes 0.2.1:
+* Added save of dialog's width and height on exit
+
+zNotes 0.2.0:
+* Added activation of last used note on program start
+* Fixed the dirty hack with changing note's directory
+* Added a hack to avoid bug with closing application, when it hided and any dialog was showed
+
+zNotes 0.1.9:
+* Fixed bug with crush on creating new note
+
+zNotes 0.1.8:
+* Fixed critical bug with segmenration fault on start
+
+zNotes 0.1.7:
+* Fixed serious bug with note's saving
+
+zNotes 0.1.4:
+* Fixed some bugs
+* Changed config file's format
+* Added preferences dialog

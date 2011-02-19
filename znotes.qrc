@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/add.png</file>
+        <file>res/close.png</file>
+        <file>res/exit.png</file>
+        <file>res/info.png</file>
+        <file>res/remove.png</file>
+        <file>res/rename.png</file>
+        <file>res/settings.png</file>
+        <file>res/znotes.png</file>
+        <file>res/znotes32.png</file>
+        <file>res/copy.png</file>
+        <file>res/next.png</file>
+        <file>res/prev.png</file>
+        <file>res/exec.png</file>
+        <file>res/find.png</file>
+        <file>res/te/down.png</file>
+        <file>res/te/left.png</file>
+        <file>res/te/right.png</file>
+        <file>res/te/up.png</file>
+        <file>res/format_bold.png</file>
+        <file>res/format_strikeout.png</file>
+        <file>res/format_underline.png</file>
+        <file>res/format_italic.png</file>
+        <file>res/znotes64.png</file>
+        <file>res/format_color.png</file>
+        <file>res/forward.png</file>
+        <file>res/back.png</file>
+    </qresource>
+</RCC>
